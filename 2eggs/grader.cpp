@@ -1,4 +1,4 @@
-#include "2eggs.h"
+#include "2eggs.cpp"
 #include <iostream>
 
 static int N, H, Q;
